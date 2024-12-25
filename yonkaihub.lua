@@ -2268,10 +2268,10 @@ if game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 7
   
      local set = sxhub:AddTab("Setting","7040347038")
   set:AddLabel("Setting")
-      set:AddButton("Credit By Sintax#4976",function()
+      set:AddButton("Credits: pekamenu",function()
   end)
       set:AddButton("Copy link Yonkai Hub Discord ",function()
-      setclipboard("https://discord.gg/3SNUUvcaxP")
+      setclipboard("https://discord.gg/HDwjCmxVqHP")
   end)
       set:AddButton("Hop Lower Server",function()
       HopLowerServer()
